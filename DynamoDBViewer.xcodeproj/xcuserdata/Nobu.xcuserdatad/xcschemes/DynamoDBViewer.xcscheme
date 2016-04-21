@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   version = "1.3">
+   <BuildAction>
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForRunning = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2521F87B5F54EC0049F4A4E7"
+               BuildableName = "DynamoDBViewer.app"
+               BlueprintName = "DynamoDBViewer"
+               ReferencedContainer = "container:DynamoDBViewer.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <LaunchAction
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Debug">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "2521F87B5F54EC0049F4A4E7"
+            BuildableName = "DynamoDBViewer.app"
+            BlueprintName = "DynamoDBViewer"
+            ReferencedContainer = "container:DynamoDBViewer.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </LaunchAction>
+</Scheme>
